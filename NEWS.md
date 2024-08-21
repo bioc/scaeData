@@ -1,3 +1,7 @@
+# scaeData 1.1.2
+
+* Lookup tables have been updated to contain complete allele names
+
 # scaeData 1.1.1
 
 * Changed filter_mode parameter value in the vignette to avoid check error
