@@ -1,6 +1,6 @@
 # scaeData 1.1.2
 
-* Lookup tables have been updated to contain complete allele names
+* Lookup tables have been updated to reflect complete allele names
 
 # scaeData 1.1.1
 
